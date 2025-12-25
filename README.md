@@ -12,19 +12,31 @@ Lo scopo del progetto è analizzare la relazione tra:
 - produzione di energia elettrica,
 - consumo di energia elettrica,
 - costi e prezzi dell’elettricità (€/kWh),
+- impegno delle nazioni nella transizione verso fonti energetiche pulite (green energy)
 
-a livello **internazionale**, utilizzando dataset open provenienti da fonti istituzionali.
+a livello **europeo**, utilizzando dataset open provenienti da fonti istituzionali.
 
 L’analisi si concentra sulla **catena dei costi dell’elettricità**, osservando come il costo per kWh vari tra le diverse fasi e tra differenti paesi.
 
 ---
 
-## Dataset (previsti)
+## Dataset
 
-I dati utilizzati provengono principalmente da:
-- Our World in Data (energia ed elettricità)
+I dati utilizzati provengono da Ember e sono i seguenti:
 
-I dataset sono in formato CSV e vengono preprocessati prima dell’analisi.
+1. *Yearly Electricity Data*
+
+   Fonte: Ember – Global Electricity Data (https://ember-energy.org/data/yearly-electricity-data/)
+   
+   Contiene informazioni annuali sulla produzione, capacità, import/export, domanda e emissioni di energia elettrica per oltre 200 paesi e territori.
+
+2. *European Wholesale Electricity Prices – Monthly*
+
+   Fonte: Ember – European Wholesale Electricity Price Data (https://ember-energy.org/data/european-wholesale-electricity-price-data/)
+
+   Contiene i prezzi mensili all’ingrosso dell’elettricità in Europa (€/MWh), aggregati per paese.
+
+Tutti i dataset sono in formato CSV e vengono preprocessati prima dell’analisi.
 
 ---
 
