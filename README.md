@@ -58,15 +58,15 @@ python start_jupyter_lab.py
 
 ## Stato del progetto
 
-Il progetto è in fase di sviluppo.
+Il progetto è stato completato.
 
 Fasi incluse:
 - raccolta e pulizia dei dataset,
 - integrazione dei dati per paese e anno
 - analisi preliminari e identificazione relazioni tra le variabili in gioco
 - individuazione di domande utili alla comprensione dell'andamento dei prezzi energetici
-Le prossime fasi includono:
-- file jupyter per la presentazione
+- file jupyter per la presentazione <br>
+- file della presentazione in HTML
 
 ---
 
