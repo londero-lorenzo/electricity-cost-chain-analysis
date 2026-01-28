@@ -3,7 +3,7 @@ import os
 
 JUPYTER_TARGET = "notebooks/04_presentation.ipynb"
 
-OUTPUT_FOLDER = "presentazione"
+OUTPUT_FOLDER = "docs"
 OUTPUT_NAME = "index"
 
 
