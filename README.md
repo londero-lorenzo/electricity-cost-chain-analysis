@@ -58,7 +58,7 @@ python start_jupyter_lab.py
 
 ## Stato del progetto
 
-Il progetto è stato completato ed è disponibile a questo indirizzo:
+Il progetto è stato completato ed è disponibile a questo indirizzo: <br>
 https://londero-lorenzo.github.io/electricity-cost-chain-analysis/
 
 
